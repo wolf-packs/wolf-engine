@@ -1,0 +1,24 @@
+{
+  "name": "wolf-engine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/great-lakes/wolf-engine.git"
+  },
+  "keywords": [
+    "botbuilder-wolf",
+    "botbuilder",
+    "Microsoft Bot Framework"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/great-lakes/wolf-engine/issues"
+  },
+  "homepage": "https://github.com/great-lakes/wolf-engine#readme"
+}
